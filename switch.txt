@@ -5,4 +5,4 @@ switch(p)
     break;
 
 }
-Console.WriteLine("我們有拉麵、義大利麵、沙拉，你想要哪個?");
+Console.WriteLine("我們有很多東西，你想要哪個?");
