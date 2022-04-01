@@ -3,12 +3,6 @@ switch(p)
     case 0:
     food="拉麵";
     break;
-    case 1:
-    food="義大利麵";
-    break;
-    case 2:
-    food="沙拉";
-    break;
 
 }
 Console.WriteLine("我們有拉麵、義大利麵、沙拉，你想要哪個?");
